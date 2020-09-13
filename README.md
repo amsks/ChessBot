@@ -3,7 +3,7 @@
 
 In this project, two robotic hands play a game of chess against each other. The environment of the engine is Nvidia PhysX. The hands are controlled by the KOMO library, which takes care of the forward and inverse kinematics. The opencv library in python is used to generate the representation of the states on the board. The moves are generated using a chess engine, in this case stockfish, which can be interfaced with the existing vision and manipulation framework.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 # Module Instalation
 
